@@ -1,0 +1,11 @@
+{"rinkeby":{
+    "Metadata":"0x6c41428dCD7C69145Cc35Bd0DA8BB4bf42e10fE9",
+    "TemperatureToken":"0x8396538C567c1B73B43f25E32171cEFBf733ce9C",
+    "TemperatureOracle":"0xFccd89F9dEEf232768DdC6464dfD768700841Dd6"},
+  "mainnet":{
+    "Metadata":"0xd71cc4D5E2f8E36C4da9De9adEFa77DA5839ef46",
+    "TemperatureToken":"0xAbf5c7C066A48a06524438F6f51BdceB6E670DAd",
+    "TemperatureOracle":"0x14e0061CFF890F422Ab5e7C95a6a1ce4AC02De77",
+    "GnosisSafe":"0x70e095FB47e10e696bf40d759B3656d273C76DDC"},
+  "ipfsDocker":"QmZWzqh7C6ZHqEnH5Yu2cqz7N3UxFSHZDdwqK8ZZ6QDBPc",
+  "oAddress":"0x5b7c3568E018C7b65F1a8141E29CbD1b5Ba05AaE"}
