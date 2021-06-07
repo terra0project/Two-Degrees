@@ -13,7 +13,7 @@
 This repo contains all of the code making up 'Two Degrees', a single NFT created for
 Sotheby's '[Natively Digital: A Curated NTF Sale](https://www.sothebys.com/en/buy/auction/2021/natively-digital-a-curated-nft-sale-2/)' exhibition and auction.
 
-A full write-up of the conceptual approach behind the project, plus a technical overview, can be found [here]**needs link**
+A full write-up of the conceptual approach behind the project, plus a technical overview, can be found [here](https://terra0.medium.com/two-degrees-nft-5af1263bfcc).
 
 #### Smart Contracts
 
